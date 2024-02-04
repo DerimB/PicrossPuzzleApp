@@ -9,7 +9,7 @@ Presents the Picross Puzzle App, a Java application developed using JavaFX with 
 - **JavaFX UI:** Demonstrates skills in creating visually appealing and responsive user interfaces using JavaFX.
 - **Grid-based Layout:** Utilizes a grid of buttons and labels to implement the Picross puzzle, showcasing the ability to design intuitive and user-friendly interfaces.
 - **Game Controls:** Implements interactive buttons for players to fill or clear cells on the puzzle grid, highlighting attention to user experience and game interaction.
-- **Puzzle Logic:** Incorporates the logical elements of Picross puzzles, providing players with a challenging and enjoyable gaming experience.
+- **Puzzle Logic:** Incorporates the logical elements of picross puzzles, providing players with a challenging and enjoyable gaming experience.
 
 ## Usage
 
