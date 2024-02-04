@@ -17,7 +17,7 @@ Presents the Picross Puzzle App, a Java application developed using JavaFX with 
 - Use the provided buttons to fill or clear cells based on puzzle clues.
 - Navigate through the puzzle, applying logical thinking to complete and reveal the hidden image.
 
-## Image of use (completed puzzle)
+## Image of app in use (completed puzzle)
 ![PicrossPuzzleExample](https://github.com/DerimB/PicrossPuzzleApp/assets/123917611/80f0f6fb-e0c2-45b6-819a-39be9823858d)
 
 ## Image of completed puzzle notification
